@@ -10,9 +10,7 @@ Users can ask questions about diseases, symptoms, or health concerns and receive
 
 # 🚀 Live Demo
 
-🔗 Streamlit App:  
-PASTE_YOUR_STREAMLIT_LINK_HERE
-
+🔗 Streamlit App:  https://naturalremedies.streamlit.app/
 ---
 
 # 📌 Project Overview
